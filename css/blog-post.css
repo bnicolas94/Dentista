@@ -1,0 +1,27 @@
+/*!
+ * Start Bootstrap - Blog Post (https://startbootstrap.com/template-overviews/blog-post)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-post/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+.imagen{
+	max-width: 550px;
+	display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.contenido{
+	display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}

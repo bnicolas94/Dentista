@@ -1,0 +1,8 @@
+[08-Jul-2018 16:47:03 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vnconsu1/demo/core/class.Conexion.php on line 7
+[08-Jul-2018 16:47:03 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/vnconsu1/demo/core/class.Conexion.php on line 18
+[08-Jul-2018 16:47:03 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/vnconsu1/demo/core/class.Conexion.php on line 21
+[08-Jul-2018 16:47:03 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/vnconsu1/demo/core/class.Conexion.php on line 25
+[09-Jul-2018 21:40:37 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/vnconsu1/demo/admin/edit.php on line 8
+[09-Jul-2018 21:40:41 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/vnconsu1/demo/admin/edit.php on line 8
+[09-Jul-2018 21:40:57 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/vnconsu1/demo/admin/edit.php on line 8
+[09-Jul-2018 21:41:13 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/vnconsu1/demo/admin/edit.php on line 8
